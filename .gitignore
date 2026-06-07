@@ -1,1 +1,4 @@
 /target
+
+# Library crates do not commit Cargo.lock (resolved per-consumer).
+/Cargo.lock
